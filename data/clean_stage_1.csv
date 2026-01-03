@@ -1,0 +1,51 @@
+University_ID,SI_1_Total_Area,SI_2_Forest_Area,SI_3_Planted_Area,EC_4_Electricity_Usage,Evidence_Link,Debug_Notes
+UNIV_001,3193742,1095643,329254,5317378.028377543,https://drive.google.com/file/d/UNIV_001,Valid Data
+UNIV_002,2033437,441857,393142,10992675.983005038,https://drive.google.com/file/d/UNIV_002,Valid Data
+UNIV_003,1055762,387659,143478,3414309.358505328,https://drive.google.com/file/d/UNIV_003,Valid Data
+UNIV_004,3142065,652178,602627,3781712.562585391,https://drive.google.com/file/d/UNIV_004,Valid Data
+UNIV_005,4745312,7117968,573963,1454166.864328549,https://drive.google.com/file/d/UNIV_005,Logic Error: Forest > Total Area
+UNIV_006,1154879,420228,175999,11905371.66461664,https://drive.google.com/file/d/UNIV_006,Valid Data
+UNIV_007,4709606,1149996,644213,4062554.9899141626,https://drive.google.com/file/d/UNIV_007,Valid Data
+UNIV_008,2389257,886920,393448,8947588.135350857,https://drive.google.com/file/d/UNIV_008,Valid Data
+UNIV_009,508375,116633,79300,9594401.71854552,https://drive.google.com/file/d/UNIV_009,Valid Data
+UNIV_010,3953079,1081231,400033,4039095872.752095,https://drive.google.com/file/d/UNIV_010,Unit Error: Extreme Outlier (Watt?)
+UNIV_011,335082,95681,46408,7768767.83108782,https://drive.google.com/file/d/UNIV_011,Valid Data
+UNIV_012,2948411,1065362,432395,1418157.1016896998,https://drive.google.com/file/d/UNIV_012,Valid Data
+UNIV_013,4648653,956440,551753,8547372.153914863,https://drive.google.com/file/d/UNIV_013,Valid Data
+UNIV_014,4151628,1028540,718751,9898695.982403029,https://drive.google.com/file/d/UNIV_014,Valid Data
+UNIV_015,4384718,6577077,539537,13113010.664428884,https://drive.google.com/file/d/UNIV_015,Logic Error: Forest > Total Area
+UNIV_016,2010463,678942,275498,4604300.077428132,https://drive.google.com/file/d/UNIV_016,Valid Data
+UNIV_017,3512200,952247,362292,8537501.014392698,https://drive.google.com/file/d/UNIV_017,Valid Data
+UNIV_018,1231274,481201,147083,4451408.695276318,https://drive.google.com/file/d/UNIV_018,Valid Data
+UNIV_019,3409589,686664,679012,2206231.679393426,https://drive.google.com/file/d/UNIV_019,Valid Data
+UNIV_020,999259,223784,153525,4414042856.326168,https://drive.google.com/file/d/UNIV_020,Unit Error: Extreme Outlier (Watt?)
+UNIV_021,4401561,1403459,658119,3790722.0029771407,https://drive.google.com/file/d/UNIV_021,Valid Data
+UNIV_022,4055841,958244,415401,4681510.573524425,https://drive.google.com/file/d/UNIV_022,Valid Data
+UNIV_023,2864637,897469,299429,8940434.895889636,https://drive.google.com/file/d/UNIV_023,Valid Data
+UNIV_024,3232624,828733,530720,6251399.333241587,https://drive.google.com/file/d/UNIV_024,Valid Data
+UNIV_025,113129,169693,13854,10062709.103187162,https://drive.google.com/file/d/UNIV_025,Logic Error: Forest > Total Area
+UNIV_026,2646682,682432,498209,1819365.411229936,https://drive.google.com/file/d/UNIV_026,Valid Data
+UNIV_027,2521211,698151,377423,5312348.53394177,https://drive.google.com/file/d/UNIV_027,Valid Data
+UNIV_028,2100570,787180,240282,2195486.751057073,https://drive.google.com/file/d/UNIV_028,Valid Data
+UNIV_029,4112222,1124275,463886,3839605.6229384425,https://drive.google.com/file/d/UNIV_029,Valid Data
+UNIV_030,412230,125997,66547,4843307.0,https://drive.google.com/file/d/UNIV_030,Format Error: Comma usage
+UNIV_031,2305950,592959,399622,5666965.906589896,https://drive.google.com/file/d/UNIV_031,Valid Data
+UNIV_032,1141629,327785,167761,1784017.7227421044,https://drive.google.com/file/d/UNIV_032,Valid Data
+UNIV_033,1883425,741497,336259,3493431.8279572483,https://drive.google.com/file/d/UNIV_033,Valid Data
+UNIV_034,2867449,853657,372822,3749306.069888091,https://drive.google.com/file/d/UNIV_034,Valid Data
+UNIV_035,4079458,1513773,705376,5330630.155220224,https://drive.google.com/file/d/UNIV_035,Valid Data
+UNIV_036,3758412,960113,729128,9104228.969529703,https://drive.google.com/file/d/UNIV_036,Valid Data
+UNIV_037,4077945,1523594,429037,9327177.624304004,https://drive.google.com/file/d/UNIV_037,Valid Data
+UNIV_038,3990550,1486851,621899,10118697.743350822,https://drive.google.com/file/d/UNIV_038,Valid Data
+UNIV_039,1808075,694905,227656,9842460.380214889,https://drive.google.com/file/d/UNIV_039,Valid Data
+UNIV_040,2975355,981943,320395,8855581.922027523,,Compliance Error: Missing Evidence
+UNIV_041,1624098,629240,176946,9912199.61480445,https://drive.google.com/file/d/UNIV_041,Valid Data
+UNIV_042,1019099,317389,145149,4853159.569870832,https://drive.google.com/file/d/UNIV_042,Valid Data
+UNIV_043,1040802,412729,178317,5515562.986854771,https://drive.google.com/file/d/UNIV_043,Valid Data
+UNIV_044,280053,78631,28127,1770488.411648741,https://drive.google.com/file/d/UNIV_044,Valid Data
+UNIV_045,4988509,1111774,694258,6549024.892605994,https://drive.google.com/file/d/UNIV_045,Valid Data
+UNIV_046,1484547,470042,186028,9240631.349797498,https://drive.google.com/file/d/UNIV_046,Valid Data
+UNIV_047,486655,194099,86052,4970192.828502948,https://drive.google.com/file/d/UNIV_047,Valid Data
+UNIV_048,2977239,926397,528842,5161759.695865427,https://drive.google.com/file/d/UNIV_048,Valid Data
+UNIV_049,1615254,464009,289586,9043085.10076539,https://drive.google.com/file/d/UNIV_049,Valid Data
+UNIV_050,4338878,1673420,658674,1011273.485277361,https://drive.google.com/file/d/UNIV_050,Valid Data
