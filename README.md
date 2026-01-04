@@ -130,6 +130,27 @@ UNIV_040        Compliance Error      Evidence Link is missing
 ```
 
 ---
+# Dashboard (Tableau)
+
+## Overview
+This dashboard is designed to meet the needs of stakeholders (Rectorate/Management) in visually comparing university sustainability performance. It uses a **Radar Chart (Spider Web)** to map strengths and weaknesses across 6 GreenMetric pillars.
+
+## Technical Challenge & Solution
+Tableau doesn't have a native feature for Radar Charts. This project demonstrates **Advanced Calculation** capabilities using Trigonometry:
+* **Data Engineering:** Data transformation from *Wide* to *Long* format using Python (Pandas Melt).
+* **Trigonometry:** Calculating X/Y coordinates using `SIN()` and `COS()` functions in *Calculated Fields*.
+* **Polygon Mapping:** Using custom path order to draw precise hexagonal geometry.
+
+## Preview
+![Dashboard Preview](output/dashboard_preview.png)
+
+[View Dashboard on Tableau Public](https://public.tableau.com/views/GreenMetricStrategicBenchmarkingComparativeAnalysis/Dashboard1)
+
+## Key Insights
+* This visualization enables quick "Gap Analysis" identification. Example: University A excels in *Energy* (upper right sector) but is weak in *Water* (lower sector).
+* Facilitates evidence-based decision making for budget allocation improvements.
+
+---
 
 ## Installation & Usage
 
